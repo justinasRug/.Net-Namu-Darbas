@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sj4+b8SzpmFlUA3sw6tes6Jq+yr3V437So71qADKYpK1JMGTNUQZnMfD0s7CCCBOSDeOmCKiT87OClasHFKlng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JusTas\\source\\repos\\StockAppJR\\ApiReceive\\ApiReceive.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JusTas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\JusTas\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

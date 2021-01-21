@@ -1,0 +1,9 @@
+C:\Users\JusTas\source\repos\LocalNuGet\netstandard2.0\ApiReceive.deps.json
+C:\Users\JusTas\source\repos\LocalNuGet\netstandard2.0\ApiReceive.dll
+C:\Users\JusTas\source\repos\LocalNuGet\netstandard2.0\ApiReceive.pdb
+C:\Users\JusTas\source\repos\StockAppJR\ApiReceive\obj\Debug\netstandard2.0\ApiReceive.csprojAssemblyReference.cache
+C:\Users\JusTas\source\repos\StockAppJR\ApiReceive\obj\Debug\netstandard2.0\ApiReceive.AssemblyInfoInputs.cache
+C:\Users\JusTas\source\repos\StockAppJR\ApiReceive\obj\Debug\netstandard2.0\ApiReceive.AssemblyInfo.cs
+C:\Users\JusTas\source\repos\StockAppJR\ApiReceive\obj\Debug\netstandard2.0\ApiReceive.csproj.CoreCompileInputs.cache
+C:\Users\JusTas\source\repos\StockAppJR\ApiReceive\obj\Debug\netstandard2.0\ApiReceive.dll
+C:\Users\JusTas\source\repos\StockAppJR\ApiReceive\obj\Debug\netstandard2.0\ApiReceive.pdb
