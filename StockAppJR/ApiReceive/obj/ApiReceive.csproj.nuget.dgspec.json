@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JusTas\\source\\repos\\StockAppJR\\ApiReceive\\ApiReceive.csproj": {}
+    "C:\\Users\\JusTas\\Documents\\GitHub\\.Net-Namu-Darbas\\StockAppJR\\ApiReceive\\ApiReceive.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JusTas\\source\\repos\\StockAppJR\\ApiReceive\\ApiReceive.csproj": {
+    "C:\\Users\\JusTas\\Documents\\GitHub\\.Net-Namu-Darbas\\StockAppJR\\ApiReceive\\ApiReceive.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JusTas\\source\\repos\\StockAppJR\\ApiReceive\\ApiReceive.csproj",
+        "projectUniqueName": "C:\\Users\\JusTas\\Documents\\GitHub\\.Net-Namu-Darbas\\StockAppJR\\ApiReceive\\ApiReceive.csproj",
         "projectName": "ApiReceive",
-        "projectPath": "C:\\Users\\JusTas\\source\\repos\\StockAppJR\\ApiReceive\\ApiReceive.csproj",
+        "projectPath": "C:\\Users\\JusTas\\Documents\\GitHub\\.Net-Namu-Darbas\\StockAppJR\\ApiReceive\\ApiReceive.csproj",
         "packagesPath": "C:\\Users\\JusTas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JusTas\\source\\repos\\StockAppJR\\ApiReceive\\obj\\",
+        "outputPath": "C:\\Users\\JusTas\\Documents\\GitHub\\.Net-Namu-Darbas\\StockAppJR\\ApiReceive\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JusTas\\AppData\\Roaming\\NuGet\\NuGet.Config",

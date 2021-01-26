@@ -44,13 +44,7 @@ namespace StockAppJR
                 MessageBox.Show("Incorect abbreviation");
             }
 
-            /* textBox2.Text = items[numb].Date.ToString();
-             textBox1.Text = items[numb].Open.ToString();
-             textBox3.Text = items[numb].High.ToString();
-             textBox4.Text = items[numb].Low.ToString();
-             textBox6.Text = items[numb].Close.ToString();
-             textBox7.Text = items[numb].Volume.ToString();
- */
+
         }
 
         private void textStok_TextChanged(object sender, EventArgs e)
@@ -61,7 +55,6 @@ namespace StockAppJR
         private void DataComboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
             index = DataComboBox1.SelectedIndex;
-            //textBox1.Text = index.ToString();
 
         }
 

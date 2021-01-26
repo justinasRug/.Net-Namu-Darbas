@@ -18,7 +18,6 @@ namespace StockAppJR
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
             
-            //Console.WriteLine(items[2].Open);*/
 
         }
     }

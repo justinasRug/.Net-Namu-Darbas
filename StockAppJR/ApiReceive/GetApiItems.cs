@@ -11,7 +11,7 @@ namespace ApiReceive
         public static async Task<List<DailyValues>> getItems(string stock)
         {
 
-            string URLkey = "3T9IINHM1CPEAP6J";
+            string URLkey = "";
 
             string response = await GetAPIFromURL(stock, URLkey);
             List<DailyValues> stoksai = new List<DailyValues>();
@@ -32,6 +32,8 @@ namespace ApiReceive
             string response = await client.GetStringAsync("https://" + $@"www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol={symb}&apikey={URLkey}&datatype=csv");
             return response;
         }
+
+
 
         public class DailyValues
         {
